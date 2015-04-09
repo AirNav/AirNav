@@ -1,0 +1,56 @@
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\AirNav.exe.config
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\AirNav.exe
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\AirNav.pdb
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.Properties.Resources.resources
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.csproj.GenerateResource.Cache
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.exe
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.pdb
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.AirNavForm.resources
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_calib3d240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_contrib240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_core240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_features2d240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_ffmpeg240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_flann240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_gpu240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_highgui240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_imgproc240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_legacy240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_ml240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_nonfree240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_objdetect240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_photo240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_stitching240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_video240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\opencv_videostab240.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\bin\Debug\cvextern.dll
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.csproj.ResolveComReference.cache
+G:\Visual Studio 2012 Projects\AirNav\AirNav\AirNav\obj\Debug\AirNav.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\AirNav.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\cvextern.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_calib3d240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_contrib240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_core240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_features2d240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_flann240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_gpu240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_highgui240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_imgproc240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_legacy240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_ml240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_nonfree240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_objdetect240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_photo240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_stitching240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_video240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\opencv_videostab240.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\AirNav.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\bin\Debug\AirNav.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.AirNavForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\AirNav\AirNav\obj\Debug\AirNav.csproj.GenerateResource.Cache
